@@ -28,7 +28,7 @@ body {
 h1 {
   font-size: 1.4rem;
   margin-bottom: 20px;
-  color: #00b37e;
+  color: #3e197a;
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ h1 {
   background-color: #121214;
   border: 1px solid #323238;
   border-radius: 4px 0 0 4px;
-  color: #00e699;
+  color: #542197;
   font-family: monospace;
   font-size: 1.1rem;
   outline: none;
@@ -61,7 +61,7 @@ h1 {
 }
 
 .output-group button:hover {
-  background-color: #00b37e;
+  background-color: #43117c;
 }
 
 .option-group {
@@ -88,7 +88,7 @@ label {
 
 input[type="range"] {
   width: 100%;
-  accent-color: #00b37e;
+  accent-color: #44117e;
 }
 
 .info-panel {
@@ -112,7 +112,7 @@ input[type="range"] {
   width: 100%;
   padding: 12px;
   margin-top: 15px;
-  background-color: #00b37e;
+  background-color: #320e85;
   color: #121214;
   border: none;
   border-radius: 4px;
@@ -122,6 +122,6 @@ input[type="range"] {
 }
 
 .btn-generate:hover {
-  background-color: #00e699;
+  background-color: #40137a;
 }
 
